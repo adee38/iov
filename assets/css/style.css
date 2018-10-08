@@ -314,6 +314,15 @@ a:hover, a:focus, a:active {
 
 /* Team 
 ================================= */
+@media screen 
+  and (min-width: 1000px)
+{
+    
+    .beech{
+       padding-left: 50px;
+    }
+}
+
 .team-member {
   background: #a10404f1;
   color: #fff;
